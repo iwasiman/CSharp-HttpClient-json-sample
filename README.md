@@ -5,5 +5,5 @@ JSONを扱うサンプルのコードです。
 
 
 はてなブログの以下の記事の掲載用です。  
-『【【C#】System.Net.Http.HttpClientを使ってWeb APIとHTTP通信してみよう』  
+『【C#】System.Net.Http.HttpClientを使ってWeb APIとHTTP通信してみよう』  
 『【C#】System.Text.Json でJSONを扱ってみよう』
